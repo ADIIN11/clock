@@ -1,0 +1,31 @@
+*{
+
+text-align: center;
+
+}
+body{
+    background-color: rgb(59, 52, 52);
+}
+header{
+    margin: 2rem 4rem 0rem 4rem ;
+    border:3px solid black ;
+    outline: 4px solid rgb(34, 214, 211);
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    background-color: aquamarine;
+    
+
+}
+
+div.clock_box{
+    margin: 0rem 4rem 0rem 4rem ;
+    flex: auto;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+div.Ampm_box{
+    
+
+}
